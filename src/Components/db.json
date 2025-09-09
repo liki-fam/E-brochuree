@@ -1,0 +1,458 @@
+[
+  {
+    "id":"1",
+    "Event Name": "Capture the Glory",
+    "Event Subtitle": "Capture The Flag",
+    "Emoji": "🔒",
+    "Registration Fee": "₹300",
+    "Team Size": "Trio",
+    "Venue": "DAMS Lab",
+    "Duration": "Approximately 3 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Participants must have basic computer and programming knowledge",
+      "Challenges involve solving coding problems and finding hidden files to retrieve flags",
+      "Internet use is allowed but using AI tools and Cyberchef is strictly prohibited",
+      "Personal gadgets like mobile phones and smart watches are not allowed",
+      "Any form of malpractice will lead to immediate disqualification",
+      "Further detailed rules will be provided on the day of event"
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Daya",
+        "phone": "+91 90604 57825"
+      },
+      {
+        "name": "Prajwal",
+        "phone": "+91 78291 04469"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"2",
+    "Event Name": "BGICS",
+    "Event Subtitle": "BGMI E-Sports",
+    "Emoji": "🎮",
+    "Registration Fee": "₹400",
+    "Team Size": "Squad",
+    "Venue": "Auditorium",
+    "Duration": "Approximately 4 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Players must play only on mobile devices (no ipad, tablet or emulators allowed)",
+      "Use of third-party software, hacks, scripts, GFX tools, or unfair methods (aim assist, wallhack, ESP, etc.) is strictly prohibited. If caught, the entire squad can be banned.",
+      "No teaming with other squads( if In case of teaming up whole squad will be disqualified)",
+      "Abusive language, harassment, or unsportsmanlike behavior towards opponents, casters, or organizers can lead to penalties or disqualification.",
+      "Players must join the lobby within the given time. Late entries, connection excuses, or device failures are not the responsibility of organizers.",
+      "Player id level must be 50 or above"
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 3 Squads",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 26, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 4 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Manoj",
+        "phone": "+91 80506 71754"
+      },
+      {
+        "name": "Chandhu",
+        "phone": "+91 63601 32356"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"3",
+    "Event Name": "PixelCraft",
+    "Event Subtitle": "Poster Designing",
+    "Emoji": "🎨",
+    "Registration Fee": "₹300",
+    "Team Size": "Individual",
+    "Venue": "LH-103",
+    "Duration": "Approximately 3 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "The theme will be given on the spot.",
+      "Posters must be created individually using Canva Free only – no Pro elements, no AI tools, and no templates.",
+      "Poster size should be A4 (210 × 297 mm).",
+      "Work must be completed within the given time limit.",
+      "Posters must be original, neat, relevant, and creative – imitations or borrowings from external works shall not be permitted.",
+      "Irrelevant, offensive content or not following the theme/size will lead to disqualification."
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Sound Check: Brief microphone test will be provided",
+      "Audience: Live audience of students and tech enthusiasts",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Anusri",
+        "phone": "+91 99029 67152"
+      },
+      {
+        "name": "Shiva",
+        "phone": "+91 70858 80499"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"4",
+    "Event Name": "Micro Tales",
+    "Event Subtitle": "Short Movie Competition",
+    "Emoji": "🎥",
+    "Registration Fee": "₹400",
+    "Team Size": "Individual",
+    "Venue": "LH-101",
+    "Duration": "5-7 minutes",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Participants must not use any kind of template, preset, or auto-editing tool.",
+      "Participants must bring their own device with the required editing software installed.",
+      "Unedited clips must be submitted on 22th September, between 8:00 AM and 10:00 PM, to 2k25techxplore@gmail.com for approval.",
+      "The final short film should have a duration of 5–10 minutes and must follow the given theme.",
+      "Participants must not use obscene, offensive, or copyrighted material in the film.",
+      "Final entries must be submitted on or before the deadline."
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Sound Check: Brief microphone test will be provided",
+      "Audience: Live audience of students and tech enthusiasts",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Krishna",
+        "phone": "+91 94809 33521"
+      },
+      {
+        "name": "Gowtham",
+        "phone": "+91 94809 33521"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"5",
+    "Event Name": "3D Artistery Arena",
+    "Event Subtitle": "3D Modeling",
+    "Emoji": "💻",
+    "Registration Fee": "₹300",
+    "Team Size": "Individual",
+    "Venue": "Auditorium",
+    "Duration": "6 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Blender 3D Modeling Event – Rules",
+      "Use only Blender for modeling.",
+      "Submit only original work (no pre-made assets).",
+      "Stick to the given theme.",
+      "No NSFW or offensive content.",
+      "Submit .blend file + rendered image,File name format: Name_Model.blend."
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Kushal",
+        "phone": "+91 79755 91729"
+      },
+      {
+        "name": "Ananya",
+        "phone": "+91 98806 19487"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"6",
+    "Event Name": "Survival Showdown",
+    "Event Subtitle": "FREE FIRE",
+    "Emoji": "💻",
+    "Registration Fee": "₹400",
+    "Team Size": "Squad",
+    "Venue": "Auditorium",
+    "Duration": "5 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Only 4 players per squad allowed.",
+      "No teaming up* with other squads.",
+      "Disconnects or lag are not grounds for a rematch.",
+      "No hacks/mods* — automatic disqualification.",
+      "In case of a tie, total kills will be considered.",
+      "No conflicts between other teams while playing or else both teams will be disqualified."
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Rakesh",
+        "phone": "+91 96636 12309"
+      },
+      {
+        "name": "Shashank",
+        "phone": "+91 76762 85732"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"7",
+    "Event Name": "Script and Style",
+    "Event Subtitle": "WEB-Development",
+    "Emoji": "💻",
+    "Registration Fee": "₹250",
+    "Team Size": "Individual",
+    "Venue": "LH-102",
+    "Duration": "6 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Team Size: You can participate alone or with one teammate.",
+      "No Copying: Don’t copy code from others—plagiarism leads to disqualification.",
+      "AI Tools Allowed: You can use tools like Copilot or ChatGPT unless the prompt says not to.",
+      "Follow the Prompt: Build your website based on the prompt given at the event start.",
+      "Submit Everything: Turn in your project folder, README, screenshots or demo, and a short presentation.",
+      "Finish on Time: Submit your work before the deadline—late entries won’t be accepted."
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Puneeth",
+        "phone": "+91 80735 99003"
+      },
+      {
+        "name": "Uday",
+        "phone": "+91 63614 62799"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"8",
+    "Event Name": "GiggleBytes",
+    "Event Subtitle": "Standup Comedy Competition",
+    "Emoji": "🎤",
+    "Registration Fee": "₹300",
+    "Team Size": "Individual",
+    "Venue": "Auditorium",
+    "Duration": "5-7 minutes",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "There should not be any kind of offended jokes",
+      "No repetition",
+      "Joke need to be according to real time examples on present, past , future",
+      "Don’t steal jokes or material from other comedians.",
+      "Don’t harass or personally insult audience.",
+      "Religious Sensitivity Jokes that insult religions or promote enmity can be punishable and avoid content that incites violence, casteism, communal hatred, or discrimination.Individual participation only"
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Sound Check: Brief microphone test will be provided",
+      "Audience: Live audience of students and tech enthusiasts",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 25, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Samrudh",
+        "phone": "+91 94809 33521"
+      },
+      {
+        "name": "Sneha",
+        "phone": "+91 89047 58359"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"9",
+    "Event Name": "Ad-Venture",
+    "Event Subtitle": "Tech Comedy Standup Competition",
+    "Emoji": "💻",
+    "Registration Fee": "₹250",
+    "Team Size": "Individual",
+    "Venue": "Auditorium",
+    "Duration": "5-7 minutes",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Time Limit:Each team/participant will be given a fixed time (e.g., 5–7 minutes) to prepare and 2–3 minutes to present their advertisement. Exceeding the time limit will lead to negative marking.",
+      "Product Disclosure:The product/topic will be provided only at the event venue. Participants cannot bring pre-prepared scripts, jingles, or visuals related to the product.",
+      "Content Guidelines:The advertisement must be original, creative, and suitable for a general audience. Vulgar, offensive, or discriminatory content is strictly prohibited and will lead to disqualification.",
+      "Presentation Style: Participants can use acting, slogans, jingles, or props (if allowed by organizers). However, electronic gadgets, pre-recorded audio/video, or internet usage will not be permitted unless stated otherwise."
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Sound Check: Brief microphone test will be provided",
+      "Audience: Live audience of students and tech enthusiasts",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 26, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Dilip",
+        "phone": "+91 74830 71150"
+      },
+      {
+        "name": "Nishanth",
+        "phone": "+91 99720 39131"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  },
+  {
+    "id":"10",
+    "Event Name": "Knowledge Knockout",
+    "Event Subtitle": "Tech Comedy Standup Competition",
+    "Emoji": "🧠",
+    "Registration Fee": "₹300",
+    "Team Size": "Duo",
+    "Venue": "LH-201",
+    "Duration": "Approximately 3 hours",
+    "Event Description": "Get ready to laugh your circuits off! GiggleBytes is TechXplore 2K25's premier comedy event where tech meets humor. Whether you're a coding comedian or a debugging diva, this is your stage to showcase wit with a technological twist.\nParticipants will perform standup comedy routines incorporating technology themes, programming jokes, IT culture references, and digital age humor. From bugs to features, algorithms to user interfaces – everything tech is fair game for your comedic genius!",
+    "Rules & Regulations": [
+      "Team Formation: Each team must consist of 2 participants from the same or different departments.",
+      "Single Device Rule:Only one device (laptop/phone) per team is allowed during the quiz.",
+      "Fair Play:Use of the internet, books, or external help during the quiz is strictly prohibited. Any malpractice will lead to disqualification.",
+      "Time Limit:Each question must be answered within the given time frame. Late submissions will not be considered.",
+      "Scoring:Correct answers carry positive points; no negative marking unless specified by the quiz master.",
+      "QUIZ IS BASED ON TECH & PROGRAMMING"
+    ],
+    "Event Guidelines": [
+      "Arrival Time: Participants must arrive 30 minutes before their slot",
+      "Recording: Event may be recorded for promotional purposes",
+      "Prizes: Exciting prizes for top 2 performers",
+      "Certificate: All participants will receive participation certificates",
+      "Networking: Great opportunity to connect with fellow tech enthusiasts",
+      "Technical Support: Basic AV support will be provided"
+    ],
+    "Schedule": {
+      "Event Date": "September 26, 2025",
+      "Reporting Time": "9:30 AM",
+      "Event Start": "10:30 PM",
+      "Duration": "Approximately 3 hours",
+      "Results": "Same day at closing ceremony"
+    },
+    "Co-ordinators": [
+      {
+        "name": "Karan Malviya",
+        "phone": "+91 78291 02374"
+      },
+      {
+        "name": "Jasmeet",
+        "phone": "+91 82175 08129"
+      }
+    ],
+    "Registration Link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Dnkk4e7cIJuG8KVQiZl_JLSvvwMWr526R2fyiB06DWgxfQ/viewform?usp=header"
+  }
+]
