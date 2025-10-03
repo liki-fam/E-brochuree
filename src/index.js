@@ -10,6 +10,11 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
+body {
+  overflow-x: hidden; /* Optional: hides side-scroll */
+  overflow-y: scroll; /* Forces vertical scroll */
+  -webkit-overflow-scrolling: touch; /* Smooth iOS scrolling */
+}
 // Optional: measure performance in your app
+
 reportWebVitals();
