@@ -103,6 +103,7 @@ const AppContent = () => {
       <BackgroundAnimation isEventDetailPage={isEventDetailPage} />
       <Header />
       <Routes>
+    <div className="min-h-screen bg-gray-50 overflow-y-auto">
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/events" element={<Events />} />
